@@ -6,5 +6,5 @@ loguru
 apscheduler
 certifi
 charset-normalizer
-idna==3.10
+idna
 urllib3
