@@ -1,3 +1,10 @@
 python-telegram-bot
 requests
-httpx
+aiohttp
+python-dotenv
+loguru
+apscheduler
+certifi
+charset-normalizer
+idna==3.10
+urllib3
